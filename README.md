@@ -1,6 +1,6 @@
 
 
- #🚀 beta key, sızıntılar, sohbet, öneri/şikayet için resmi discord sunucumuz olan https://discord.gg/rodchaskai adresine davetlisiniz. Keyifli kullanımlar dilerim!
+ # 🚀 beta key, sızıntılar, sohbet, öneri/şikayet için resmi discord sunucumuz olan https://discord.gg/rodchaskai adresine davetlisiniz. Keyifli kullanımlar dilerim!
  # ⭐Kurulum: yandaki releases bölümündeki latest .exe yi indirip kurabilirsiniz.
 
 
